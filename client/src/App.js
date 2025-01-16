@@ -3,6 +3,7 @@ import shoplogo from "./assets/logo1.png";
 import { useState, useEffect } from "react";
 import axios from "axios";
 
+//practice for pr request
 function App() {
 	const [products, setProducts] = useState([]);
 
